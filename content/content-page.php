@@ -1,4 +1,7 @@
 <div class="page">
+
     <h2><?php the_title(); ?></h2>
-    <p><?php the_content(); ?></p>
+
+    <?php the_content(); ?>
+
 </div>
